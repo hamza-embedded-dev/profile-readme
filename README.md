@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hamza
+# 👋 Hi, I'm Hamza Emin
 
 ###  Focus Area
 * **Embedded Systems & Edge AI**
