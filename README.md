@@ -1,10 +1,11 @@
 # 👋 Hi, I'm Hamza Emin
 
-###  Focus Area
+
+### Focus Area
+* **Electrical & Electronics Engineering student**
 * **Embedded Systems & Edge AI**
 * **C / ARM / Bare Metal / RTOS**
-*  *Learning in public* 
-
+* *Learning in public*
 ---
 
 ###  Current Goals
